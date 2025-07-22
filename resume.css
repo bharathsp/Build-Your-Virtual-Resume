@@ -541,6 +541,18 @@ button:focus {
 
 /*percentage classes*/
 
+.ninty-five-percent
+{
+	width: 95%;
+	height: inherit;
+}
+
+.ninty-percent
+{
+	width: 90%;
+	height: inherit;
+}
+
 .eighty-five-percent
 {
 	width: 85%;
@@ -577,5 +589,22 @@ button:focus {
 	height: inherit;
 }
 
+.sixty-percent
+{
+	width: 60%;
+	height: inherit;
+}
+
+.thirty-percent
+{
+	width: 30%;
+	height: inherit;
+}
+
+.twenty-percent
+{
+	width: 30%;
+	height: inherit;
+}
 
 
